@@ -3,7 +3,7 @@ import { ToDo } from "@/types/todo";
 let todos: ToDo[] = [
   {
     id: 1,
-    task: "Buy Milk",
+    task: "Buy Milk2",
     done: true,
   },
   {
